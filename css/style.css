@@ -184,7 +184,12 @@ body {
 }
 
 .contact-nav {
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 1.14;
+    letter-spacing: 0.02em;
     color: #757575;
+
 }
 
 .contact-link {
@@ -193,7 +198,6 @@ body {
     font-size: 14px;
     line-height: 1.71;
     letter-spacing: 0.03em;
-
     color: rgba(255, 255, 255, 0.6);
 }
 
